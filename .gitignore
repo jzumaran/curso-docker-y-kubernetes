@@ -1,0 +1,10 @@
+dump.rdb
+**.orig
+
+# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
+.rvmrc
+
+.DS_Store
+/.vscode/*
+
+erl_crash.dump
